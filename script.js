@@ -1,6 +1,6 @@
 const { Builder, Browser, By, Key, until } = require('selenium-webdriver');
 
-const productName="Nike react phantom run";
+const productName="Nike react phantom run flyknit 2";
 
 
 //const chrome=require("selenium-webdriver/chrome");
